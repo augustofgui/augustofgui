@@ -1,4 +1,8 @@
-<h1 align="center">Hi there 👋, i'm Augusto</h1>
+<h1 align="center">Hi 👋, i'm Augusto <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h1>
+<h3 align="center">I'm a Full Stack Developer from Minas Gerais, Brazil.</h3>
+</br>
+<p align="center"><em>"Programming is easy, you just shouldn't even try at all."</em></p>
+</br>
 
 ### 🚀 What I use daily:
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -35,3 +39,9 @@
   ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
   ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
   
+##
+  
+  
+  
+  
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=augustofgui.augustofgui)
