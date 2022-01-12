@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, i'm Augusto <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h1>
 <h3 align="center">I'm a Full Stack Developer from Minas Gerais, Brazil.</h3>
 </br>
-<p align="center"><em>"Programming is easy, you just shouldn't even try at all."</em></p>
+<p align="center"><em>"Coding is easy, you just shouldn't even try at all."</em></p>
 </br>
 
 ### 🚀 What I use daily:
